@@ -1,8 +1,8 @@
-Experiment: MAPbBr3 
+Experiment:  
 # Required Parameters
     Type:  "LEED"
     Name:  "MAPbBr3 MM32044_3"
-    Data Type:  "Raw"
+    Data Type:  "Image"
     File Format:  ".tif"
     Image Parameters:
         Height: 514
