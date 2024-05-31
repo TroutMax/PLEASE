@@ -11,7 +11,9 @@ Experiment:
         Min:  -9.9
         Max:  20.0
         Step:  0.1
-    Data Path:  "/Users/Maxwell/Desktop/Ru_UNH_LEEM/141023/141023_02_LEEM-IV_40FOV"
+    Data Path:  "/Users/Max/Code/Github/PLEASE/TestData/ActualDatasets/LEEM"
+    
+    #"/Users/Maxwell/Desktop/Ru_UNH_LEEM/141023/141023_02_LEEM-IV_40FOV"
 
 # Additional Parameters
     Bit Size:  16

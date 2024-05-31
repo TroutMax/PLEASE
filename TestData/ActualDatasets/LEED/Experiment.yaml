@@ -11,7 +11,9 @@ Experiment:
         Min:  20.0
         Max:  149.5
         Step:  0.5
-    Data Path:  "/Users/Maxwell/LEEMIVTEST/LEED_IV_TIFF_Bulk_MoS2_20-150_eV/"
+    Data Path:  "/Users/Max/Code/Github/PLEASE/TestData/ActualDatasets/LEED/Data"
+    
+    #"/Users/Maxwell/LEEMIVTEST/LEED_IV_TIFF_Bulk_MoS2_20-150_eV/"
 
 
 # Additional Required Parameters
