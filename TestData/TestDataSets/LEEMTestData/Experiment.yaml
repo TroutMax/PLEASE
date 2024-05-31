@@ -11,7 +11,9 @@ Experiment:
         Min:  0.0
         Max:  100.0
         Step:  1.0
-    Data Path:  "/Users/Maxwell/Desktop/LEEMTestData/dat/"
+    Data Path:  "/Users/Max/Code/Github/PLEASE/TestData/TestDataSets/LEEMTestData/dat"
+    
+    #"/Users/Maxwell/Desktop/LEEMTestData/dat/"
 
 # Optional Parameters or Required based on choice of above parameters
     Bit Size:  8
