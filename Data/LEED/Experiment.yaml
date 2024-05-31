@@ -1,17 +1,17 @@
-Experiment:
+Experiment: MAPbBr3 
 # Required Parameters
     Type:  "LEED"
-    Name:  "Columbia-MoS2"
+    Name:  "MAPbBr3 MM32044_3"
     Data Type:  "Raw"
-    File Format:  ".dat"
+    File Format:  ".tif"
     Image Parameters:
-        Height: 544
-        Width:  576
+        Height: 514
+        Width:  514
     Energy Parameters:
-        Min:  20.0
-        Max:  149.5
-        Step:  0.5
-    Data Path:  "/Users/Max/Code/Github/PLEASE/TestData/ActualDatasets/LEED/Data"
+        Min:  4.0
+        Max:  35
+        Step:  0.2
+    Data Path:  "/Users/Max/Code/Github/PLEASE/Data/LEED/leed_iv_1544"
     
     #"/Users/Maxwell/LEEMIVTEST/LEED_IV_TIFF_Bulk_MoS2_20-150_eV/"
 
