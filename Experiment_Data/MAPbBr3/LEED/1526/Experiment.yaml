@@ -1,7 +1,7 @@
 Experiment:  
 # Required Parameters
     Type:  "LEED"
-    Name:  "MAPbBr3_1544"
+    Name:  "MAPbBr3_1526"
     Data Type:  "Image"
     File Format:  ".tif"
     Image Parameters:
@@ -11,7 +11,7 @@ Experiment:
         Min:  4.0
         Max:  35
         Step:  0.2
-    Data Path:  "/Users/Max/Code/Github/PLEASE/Experiment_Data/MAPbBr3/LEED/1544/data"
+    Data Path:  "/Users/Max/Code/Github/PLEASE/Experiment_Data/MAPbBr3/LEED/1526/data"
     
     #"/Users/Maxwell/LEEMIVTEST/LEED_IV_TIFF_Bulk_MoS2_20-150_eV/"
 
