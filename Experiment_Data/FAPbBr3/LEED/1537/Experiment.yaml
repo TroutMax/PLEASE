@@ -17,7 +17,7 @@ Experiment:
 
 
 # Additional Required Parameters
-    Bit Size:  32
+    Bit Size:  16
     Byte Order: "L"
 
 
